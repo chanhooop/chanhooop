@@ -26,4 +26,8 @@
 ### 🤝 Contect me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cksghwwkd@gmail.com)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhooop&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
+
+
 #### 	[![chanhooop's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhooop)](https://github.com/chanhooop/github-readme-stats) 
